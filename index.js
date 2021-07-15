@@ -4,7 +4,7 @@ const chalk = require('chalk');
 var score = 0;
 
 // input >> processing >> output
-var userName = readlineSync.question(chalk.cyan("May i know your name? "));
+var userName = readlineSync.question(chalk.cyan("Hi! what is your name? "));
 
 console.log(chalk.blue("Welcome " + userName + " to this demo-app!"));
 
