@@ -9,7 +9,7 @@ var userName = readlineSync.question(chalk.cyan("Hi! what is your name? "));
 console.log(chalk.blue("Welcome " + userName + " to this demo-app!"));
 
 
-// play function
+// play functio
 function play(question, answer) {
     var userAnswer = readlineSync.question(question);
 
