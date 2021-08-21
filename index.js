@@ -37,6 +37,14 @@ var questions = [{
     {
         question: "Which is my all time favorite tv show? ",
         answer: "friends"
+    },
+    {
+        question: "What is my favorite food? ",
+        answer: "Chicken rolls"
+    },
+    {
+        question: "Which is my favourite holiday spot ",
+        answer: "Konkan"
     }
 ];
 
